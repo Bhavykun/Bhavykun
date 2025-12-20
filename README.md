@@ -1,7 +1,7 @@
 # Hi, I'm Bhavykun 👋
 
 🎓 Electronics & Communication Graduate
-💻 Aspiring Full-Stack Developer  
+💻 Aspiring Full-Stack Developer
 🚀 Actively building projects and strengthening fundamentals  
 
 ---
