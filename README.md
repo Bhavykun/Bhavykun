@@ -15,43 +15,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-**Frontend**
-- HTML, CSS, JavaScript
-- React.js
-
-**Backend**
-- Node.js
-- Express.js
-
-**Database**
-- MongoDB
-- PostgreSQL
-
-**Tools & Platforms**
-- Git & GitHub
-- VS Code
-- Linux (basics)
-
----
-
-## 📌 Projects
-
-### 🔹 Real-Time Docs (Google Docs-like Editor)
-- Built a collaborative document editor
-- Implemented live updates and state management
-- Focused on component structure and UI logic
-
-### 🔹 MERN Stack Applications
-- Authentication & CRUD operations
-- REST APIs with Express
-- Frontend–backend integration
-
-> More projects coming as I continue building.
-
----
-
 ## 📚 Currently Learning
 
 - Advanced React patterns
