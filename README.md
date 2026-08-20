@@ -1,24 +1,23 @@
 # Hi, I'm Bhavykun 👋
 
+💻 Currently working as a Designer-Developer @TCS-Ericsson  
 🎓 Electronics & Communication Engineering Graduate  
-💻 Aspiring Full-Stack Developer  
-🚀 Actively building projects and strengthening core fundamentals
 
 
 ---
 
 ## 👨‍💻 About Me
 
-- Interested in **Full-Stack Web Development**
+- Interested in **Full-Stack Web Development, AIML, Agentic AI**
 - Strong focus on **clean code, problem solving, and fundamentals**
-- Currently improving skills in **React, Node.js, and system basics**
+- Currently improving skills in **Azure, system design, Agentic AI**
 - Comfortable working independently and learning from documentation
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced React patterns
+- Azure DF, SQL, Databricks, System design
 - Backend architecture fundamentals
 - Basics of CI/CD and cloud concepts
 
